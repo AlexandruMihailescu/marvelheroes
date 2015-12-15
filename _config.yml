@@ -1,0 +1,6 @@
+name: "Alexandru Mihăilescu"
+description: "Alexandru Mihăilescu"
+url: "http://www.alexandrumihailescu.ro/games/marvelheroes/"
+#baseurl: "/alexandrumihailescu.ro"
+markdown: rdiscount
+permalink: /games/marvelheroes/
